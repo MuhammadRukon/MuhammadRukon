@@ -1,10 +1,10 @@
-### Hi there 👋, my name is Arturs
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+### Hi there 👋, my name is Muhammad
+#### Web Developer
+![Web Developer](https://scontent.fdac5-1.fna.fbcdn.net/v/t1.6435-9/80034818_1713590448775320_7227102316057329664_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=19026a&_nc_eui2=AeEperjtFwIUsaIxYilotx5R1m4Tqn5OuGvWbhOqfk64a7cue-r-NEUzJw9rVB5bOi7llKB_zk5hSMUkVWDDdRRA&_nc_ohc=g8gnsCrxj_oAX-WLd-l&_nc_ht=scontent.fdac5-1.fna&oh=00_AfA0v2bH3oA1TrigrV5o2iZwUjsbhu4BxedMmjU9iGs5Tw&oe=647B4C14)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+Beginner front end developer. Quick learner and eager to learn about the web. Highly interested in working and learning under pressure to reach my potential as a full stack web developer.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: REACT / JS / HTML / CSS / Bootstrap / MySQL
 
 - 🔭 I’m currently working on making Google Keep clone. 
 - 🌱 I’m currently learning React JS 
