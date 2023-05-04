@@ -4,7 +4,7 @@
 
 Beginner front end developer. Quick learner and eager to learn about the web. Highly interested in working and learning under pressure to reach my potential as a full stack web developer.
 
-Skills: REACT / JS / HTML / CSS / Bootstrap / MySQL
+Skills: REACT / JS / HTML / CSS / Bootstrap / MySQL / Express JS
 
 - 🔭 I’m currently working on making Google Keep clone. 
 - 🌱 I’m currently learning React JS 
