@@ -18,6 +18,8 @@ A front end developer with an enormous urge to learn about the web and its techn
 [![Contact](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/muhammad.rukon/)
 #### Email: muhammad.rukon242@gmail.com
 
+#### Email: muhammad.rukon242@gmail.com
+
 ## Skills
 
 [![My Skills](https://skillicons.dev/icons?i=react,express,js,mongodb,firebase,tailwind,bootstrap,vscode,vite,vercel,netlify,html,css)](https://skillicons.dev)
