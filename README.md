@@ -99,11 +99,8 @@ MERN stack based Hotel Booking Website, redefining user experiences in accommoda
 
 **Homepage Experience:**
 
-- Engaging visuals and videos.
-- Interactive map with attractions.
-- Prominent special offers display.
+- Engaging visuals and videos, Interactive map with attractions.
 - Authentic user testimonials.
-- Newsletter subscription option.
 - Featured room showcase.
 
 **Authentication:**
