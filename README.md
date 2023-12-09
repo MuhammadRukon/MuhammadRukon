@@ -164,7 +164,7 @@ A MERN stack based website for food and beverages. Explore a tailored shopping e
 
 **Distinctive Homepage:**
 
-- Engaging navbar, banner with video, and footer.
+- Engaging navbar, banner, and footer.
 - Showcase diverse brand categories with images and names.
 - Additional sections for an enriched browsing experience.
 
