@@ -26,65 +26,65 @@ MERN-based Blood Donation website allows users to register as donors, create/man
 
 Some of the functionality and feature of this website are:
 
-##### User Roles:
+- **User Roles:** -
 
--Admin with full access.
--Donors for blood donation.
--Volunteers for managing requests.
+- Admin with full access.
+- Donors for blood donation.
+- Volunteers for managing requests.
 
-##### User Authentication:
+- **User Authentication:** -
 
--Registration with essential details.
--Login with email and password.
+- Registration with essential details.
+- Login with email and password.
 
-##### Dashboard:
+- **Dashboard:** -
 
--Private dashboard for users.
--Profile page for user information.
+- Private dashboard for users.
+- Profile page for user information.
 
-##### Donor Dashboard:
+- **Donor Dashboard:** -
 
--Displays recent donation requests.
--Allows creation and management of own requests.
+- Displays recent donation requests.
+- Allows creation and management of own requests.
 
-##### Admin Dashboard:
+- **Admin Dashboard:** -
 
--Displays statistics and welcome section.
--Manages users, donation requests, and content.
+- Displays statistics and welcome section.
+- Manages users, donation requests, and content.
 
-##### Volunteer Dashboard:
+- **Volunteer Dashboard:** -
 
--Similar to Admin but limited functionalities.
+- Similar to Admin but limited functionalities.
 
-##### Public Pages:
+- **Public Pages:** -
 
--Home page with navigation links.
--Search page for finding donors.
--Blood donation requests and details page.
+- Home page with navigation links.
+- Search page for finding donors.
+- Blood donation requests and details page.
 
-##### Content Management:
+- **Content Management:** -
 
--Admin-managed blogs with publishing and unpublishing options.
+- Admin-managed blogs with publishing and unpublishing options.
 
-##### Responsive Design:
+- **Responsive Design:** -
 
--Ensures the website is accessible on various devices.
+- Ensures the website is accessible on various devices.
 
-##### JWT Implementation:
+- **JWT Implementation:** -
 
--Secure login with JWT tokens.
--Token storage and protection for private APIs.
+- Secure login with JWT tokens.
+- Token storage and protection for private APIs.
 
-##### Funding Page:
+- **Funding Page:** -
 
--Allows users to contribute funds securely through Stripe.
--Displays funding history.
+- Allows users to contribute funds securely through Stripe.
+- Displays funding history.
 
-##### Contact Us:
+- **Contact Us:** -
 
--Contact form and number for inquiries.
+- Contact form and number for inquiries.
 
-##### Live Link:
+###### Live Link:
 
 [![Link](SaveLife)](https://savelife-6b7c9.web.app)
 
