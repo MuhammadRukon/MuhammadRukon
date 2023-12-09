@@ -21,7 +21,7 @@ A front end developer with an enormous urge to learn about the web and its techn
 
 ## Recent Projects
 
-### SaveLife
+1. ### SaveLife
 
 MERN-based Blood Donation website allows users to register as donors, create/manage donation requests, and connect with recipients. It includes role-based access (Admin, Donor, Volunteer), user authentication, and a responsive dashboard.
 
@@ -89,7 +89,7 @@ Some of the functionality and feature of this website are:
 
 [SaveLife](https://savelife-6b7c9.web.app)
 
-### CozySuite
+1. ### CozySuite
 
 MERN stack based Hotel Booking Web Application, redefining user experiences in accommodation reservations. Explore the innovative features below:
 
