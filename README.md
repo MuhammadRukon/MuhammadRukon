@@ -197,7 +197,6 @@ A MERN stack based website for food and beverages. Explore a tailored shopping e
 
 - Robust email and password-based authentication.
 - Error handling for registration and login with Firebase alerts/toasts.
-- Additional login options for user convenience.
 
 **404 Page:**
 
