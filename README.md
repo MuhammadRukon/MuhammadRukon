@@ -89,9 +89,7 @@ Some of the functionality and feature of this website are:
 
 - Contact form and number for inquiries.
 
-**Live Link:**
-
-[SaveLife](https://savelife-6b7c9.web.app)
+**Live Link:** [SaveLife](https://savelife-6b7c9.web.app)
 
 2. ### CozySuite
 
@@ -155,9 +153,7 @@ MERN stack based Hotel Booking Website, redefining user experiences in accommoda
 
 - Toast messages for effective communication.
 
-**Live Link:**
-
-[CozySuite](https://cozysuite-15955.web.app/)
+**Live Link:** [CozySuite](https://cozysuite-15955.web.app/)
 
 3. ### Snackie
 
@@ -203,8 +199,7 @@ A MERN stack based website for food and beverages. Explore a tailored shopping e
 
 - Customized not-found page for a seamless navigation experience.
 
-**Live Link:**
-[Snackie](https://brand-shop-48c61.web.app)
+**Live Link:** [Snackie](https://brand-shop-48c61.web.app)
 
 ## Skills
 
