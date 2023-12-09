@@ -165,7 +165,7 @@ A MERN stack based website for food and beverages. Explore a tailored shopping e
 - Showcase diverse brand categories with images and names.
 - Additional sections for an enriched browsing experience.
 
-  **Dynamic Navbar:**
+**Dynamic Navbar:**
 
 - Personalized user details and logout button upon login.
 - Responsive design for an optimal experience across devices.
