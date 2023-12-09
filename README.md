@@ -10,6 +10,10 @@ A front end developer with an enormous urge to learn about the web and its techn
 - 🤔 I’m looking for an internship / full-time job as a front end developer
 - 🤔 I’m currently in studying computer science and engineering in Daffodil Institute of IT (3rd year).
 
+## What I do
+
+Passionate front-end developer currently exploring Next.js. Experienced in creating responsive MERN stack websites, proficient in React, with a good understanding of Express.js, MongoDB (mongoose), Firebase, and more.
+
 ## Contact
 
 [![Contact](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/muhammadrukon/)
