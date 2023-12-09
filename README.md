@@ -12,7 +12,7 @@ A front end developer with an enormous urge to learn about the web and its techn
 
 ## What I do
 
-Passionate front-end developer currently exploring Next.js. Experienced in creating responsive MERN stack websites, proficient in React, with a good understanding of Express.js, MongoDB (mongoose), Firebase, and more.
+Passionate front-end developer currently exploring Next.js. Experienced in creating responsive MERN stack websites, proficient in React, with a good understanding of Express.js, MongoDB (mongoose), Firebase.
 
 ## Contact
 
