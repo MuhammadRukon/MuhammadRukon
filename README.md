@@ -16,9 +16,7 @@ A front end developer with an enormous urge to learn about the web and its techn
 [![Facebook](https://github.com/MuhammadRukon/MuhammadRukon/blob/main/facebook.png?raw=true)](https://www.facebook.com/muhammad.rukon.7/)
 [![Facebook](https://skillicons.dev/icons?i=twitter)](https://twitter.com/muhammadRukon2)
 [![Contact](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/muhammad.rukon/)
-#### Email: muhammad.rukon242@gmail.com
 
-#### Email: muhammad.rukon242@gmail.com
 
 ## Skills
 
