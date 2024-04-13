@@ -7,7 +7,6 @@ A front end developer with an enormous urge to learn about the web and its techn
 ## Present summary
 
 - 🌱 I’m currently learning Next Js
-- 🤔 I’m looking for an internship / full-time job as a front end developer
 - 🤔 I’m currently in studying computer science and engineering in Daffodil Institute of IT (3rd year).
 
 ## What I do
