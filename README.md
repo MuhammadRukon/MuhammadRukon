@@ -7,12 +7,11 @@ A front end developer with an enormous urge to learn about the web and its techn
 ## Present summary
 
 - 🌱 I’m currently learning Next Js
-- 🤔 I’m looking for an internship / full-time job as a front end developer
 - 🤔 I’m currently in studying computer science and engineering in Daffodil Institute of IT (3rd year).
 
 ## What I do
 
-Passionate front-end developer currently exploring Next.js. Experienced in creating responsive MERN stack websites, proficient in React, with a good understanding of Express.js, MongoDB (mongoose), Firebase, and more.
+Passionate front-end developer currently exploring Next.js. Experienced in creating responsive MERN stack websites, proficient in React, with a good understanding of Express.js, MongoDB (mongoose), Firebase.
 
 ## Contact
 
@@ -89,9 +88,7 @@ Some of the functionality and feature of this website are:
 
 - Contact form and number for inquiries.
 
-**Live Link:**
-
-[SaveLife](https://savelife-6b7c9.web.app)
+**Live Link:** [SaveLife](https://savelife-6b7c9.web.app)
 
 2. ### CozySuite
 
@@ -122,9 +119,9 @@ MERN stack based Hotel Booking Website, redefining user experiences in accommoda
 
 **Room Listings:**
 
--Available rooms with images.
--Price filter functionality.
--User reviews and ratings.
+- Available rooms with images.
+- Price filter functionality.
+- User reviews and ratings.
 
 **Booking Details:**
 
@@ -155,9 +152,7 @@ MERN stack based Hotel Booking Website, redefining user experiences in accommoda
 
 - Toast messages for effective communication.
 
-**Live Link:**
-
-[CozySuite](https://cozysuite-15955.web.app/)
+**Live Link:** [CozySuite](https://cozysuite-15955.web.app/)
 
 3. ### Snackie
 
@@ -165,11 +160,11 @@ A MERN stack based website for food and beverages. Explore a tailored shopping e
 
 **Distinctive Homepage:**
 
-- Engaging navbar, banner with video, and footer.
+- Engaging navbar, banner, and footer.
 - Showcase diverse brand categories with images and names.
 - Additional sections for an enriched browsing experience.
 
-  **Dynamic Navbar:**
+**Dynamic Navbar:**
 
 - Personalized user details and logout button upon login.
 - Responsive design for an optimal experience across devices.
@@ -203,8 +198,7 @@ A MERN stack based website for food and beverages. Explore a tailored shopping e
 
 - Customized not-found page for a seamless navigation experience.
 
-**Live Link:**
-[Snackie](https://brand-shop-48c61.web.app)
+**Live Link:** [Snackie](https://brand-shop-48c61.web.app)
 
 ## Skills
 
