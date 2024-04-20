@@ -1,4 +1,4 @@
-![cover](<https://github.com/MuhammadRukon/MuhammadRukon/blob/main/covergithub.com%20(1).png>)
+![cover](<https://github.com/MuhammadRukon/MuhammadRukon/blob/main/covergithub.com.png>)
 
 ## Objective
 
