@@ -29,7 +29,7 @@ Passionate front-end developer with backend knowledge, currently exploring Next.
 
 MERN based Islamic web app which includes most popular hadith books, categoried hadiths and searching of hadiths. (currently developing it from scratch)
 
-**Live Link:** [SaveLife](https://hadithkhujo.netlify.app/)
+**Live Link:** [HadithKhujo](https://hadithkhujo.netlify.app/)
 
 1. ### SaveLife
 
