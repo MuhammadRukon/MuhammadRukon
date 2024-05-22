@@ -2,16 +2,17 @@
 
 ## Objective
 
-A front end developer with an enormous urge to learn about the web and its technologies. Highly interested in working and learning under pressure to reach my potential as a full stack web developer.
+A Junior web engineer with an enormous urge to learn about the web and its technologies. Highly interested in working and learning under pressure to reach my potential as a software engineer.
 
 ## Present summary
 
 - 🌱 I’m currently learning Next Js
+- 🔍 I’m currently looking for a position as a full stack web engineer / frontned end engineer.
 - 🤔 I’m currently in studying computer science and engineering in Daffodil Institute of IT (3rd year).
 
 ## What I do
 
-Passionate front-end developer currently exploring Next.js. Experienced in creating responsive MERN stack websites, proficient in React, with a good understanding of Express.js, MongoDB (mongoose), Firebase.
+Passionate front-end developer with backend knowledge, currently exploring Next.js. Experienced in creating responsive MERN stack websites, proficient in React, with a good understanding of Express.js, MongoDB (mongoose), Firebase.
 
 ## Contact
 
