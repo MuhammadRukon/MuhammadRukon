@@ -25,6 +25,12 @@ Passionate front-end developer with backend knowledge, currently exploring Next.
 
 ## Recent Projects
 
+0. ### HadithKhujo
+
+MERN based Islamic web app which includes most popular hadith books, categoried hadiths and searching of hadiths. (currently developing it from scratch)
+
+**Live Link:** [SaveLife](https://hadithkhujo.netlify.app/)
+
 1. ### SaveLife
 
 MERN-based Blood Donation website allows users to register as donors, create/manage donation requests, and connect with recipients. It includes role-based access (Admin, Donor, Volunteer), user authentication, and a responsive dashboard.
