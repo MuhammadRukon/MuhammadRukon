@@ -8,7 +8,7 @@ A Junior web engineer with an enormous urge to learn about the web and its techn
 
 - 🌱 I’m currently learning Next Js
 - 🔍 I’m currently looking for a position as a full stack web engineer.
-- 🤔 I’m currently in studying computer science and engineering in Daffodil Institute of IT (3rd year).
+- 🤔 I’m currently in studying computer science and engineering in Daffodil Institute of IT (Final year).
 
 ## What I do
 
