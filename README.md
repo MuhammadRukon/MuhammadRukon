@@ -23,6 +23,10 @@ Passionate front-end developer with backend knowledge, currently exploring Next.
 
 ### Email: muhammad.rukon242@gmail.com
 
+## CodeForces & problem solving repo
+- [CodeForces Profile ](https://codeforces.com/profile/Escanor_)
+-  [Problem solving Github Repo ](https://github.com/MuhammadRukon/problem-solving))
+
 ## Recent Projects
 
 0. ### HadithKhujo
