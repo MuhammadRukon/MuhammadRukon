@@ -23,9 +23,20 @@ Passionate front-end developer with backend knowledge, currently exploring Next.
 
 ### Email: muhammad.rukon242@gmail.com
 
+## Experience
+
+####Job Responsibities:
+
+- Designing & implementing API’s in pages e.g. Billing, journal list, chart of account, party name list etc.
+- Ensuring responsiveness and visual aesthetics throughout the web app.
+- Designing other components such as sidebar, invoice A4, 3inch, 2inch, generating invoice & pdf.
+- Collab with UI/UX designer and backend engineer to design ui and integrate API's.
+- Maintain manual CI/CD using github.
+
 ## CodeForces & problem solving repo
+
 - [CodeForces Profile ](https://codeforces.com/profile/Escanor_)
--  [Problem solving Github Repo ](https://github.com/MuhammadRukon/problem-solving))
+- [Problem solving Github Repo ](https://github.com/MuhammadRukon/problem-solving)
 
 ## Recent Projects
 
@@ -41,21 +52,17 @@ MERN-based Blood Donation website allows users to register as donors, create/man
 
 Some of the functionality and feature of this website are:
 
-**User Roles:**
+**User Roles and Dashboards:**
 
 - Admin with full access.
 - Donors for blood donation.
 - Volunteers for managing requests.
+- Individual Dashboards.
 
 **User Authentication:**
 
 - Registration with essential details.
 - Login with email and password.
-
-**Dashboard:**
-
-- Private dashboard for users.
-- Profile page for user information.
 
 **Donor Dashboard:**
 
@@ -81,10 +88,6 @@ Some of the functionality and feature of this website are:
 
 - Admin-managed blogs with publishing and unpublishing options.
 
-**Responsive Design:**
-
-- Ensures the website is accessible on various devices.
-
 **JWT Implementation:**
 
 - Secure login with JWT tokens.
@@ -94,10 +97,6 @@ Some of the functionality and feature of this website are:
 
 - Allows users to contribute funds securely through Stripe.
 - Displays funding history.
-
-**Contact Us:**
-
-- Contact form and number for inquiries.
 
 **Live Link:** [SaveLife](https://savelife-6b7c9.web.app)
 
@@ -115,18 +114,10 @@ MERN stack based Hotel Booking Website, redefining user experiences in accommoda
 
 - Email/password and Google login.
 
-**Responsive Design:**
-
-- Ensures the website is accessible on various devices.
-
 **JWT Implementation:**
 
 - Secure login with JWT tokens.
 - Token storage and protection for private APIs.
-
-**Intuitive Navigation:**
-
-- Direct links to "Rooms" and "My Bookings."
 
 **Room Listings:**
 
@@ -155,14 +146,6 @@ MERN stack based Hotel Booking Website, redefining user experiences in accommoda
 - Secure actions for logged-in users.
 - Limited access for non-logged-in users.
 
-**404 Custom Page:**
-
-- Engaging 404 page with a return option.
-
-**User Feedback:**
-
-- Toast messages for effective communication.
-
 **Live Link:** [CozySuite](https://cozysuite-15955.web.app/)
 
 3. ### Snackie
@@ -174,11 +157,6 @@ A MERN stack based website for food and beverages. Explore a tailored shopping e
 - Engaging navbar, banner, and footer.
 - Showcase diverse brand categories with images and names.
 - Additional sections for an enriched browsing experience.
-
-**Dynamic Navbar:**
-
-- Personalized user details and logout button upon login.
-- Responsive design for an optimal experience across devices.
 
 **Effortless Product Addition:**
 
@@ -204,10 +182,6 @@ A MERN stack based website for food and beverages. Explore a tailored shopping e
 
 - Robust email and password-based authentication.
 - Error handling for registration and login with Firebase alerts/toasts.
-
-**404 Page:**
-
-- Customized not-found page for a seamless navigation experience.
 
 **Live Link:** [Snackie](https://brand-shop-48c61.web.app)
 
