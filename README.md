@@ -25,6 +25,9 @@ Passionate front-end developer with backend knowledge, currently exploring Next.
 
 ## Experience
 
+### Squad Innovators 
+##### Software Engineer (frontend)
+January 2024 - April 2024
 #### Job Responsibities:
 
 - Designing & implementing API’s in pages e.g. Billing, journal list, chart of account, party name list etc.
