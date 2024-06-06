@@ -25,7 +25,7 @@ Passionate front-end developer with backend knowledge, currently exploring Next.
 
 ## Experience
 
-####Job Responsibities:
+#### Job Responsibities:
 
 - Designing & implementing API’s in pages e.g. Billing, journal list, chart of account, party name list etc.
 - Ensuring responsiveness and visual aesthetics throughout the web app.
