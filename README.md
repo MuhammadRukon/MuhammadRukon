@@ -190,7 +190,7 @@ A MERN stack based website for food and beverages. Explore a tailored shopping e
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=react,express,js,mongodb,firebase,tailwind,bootstrap,vscode,vite,vercel,netlify,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,c++,c,react,express,mongodb,firebase,tailwind,bootstrap,vscode,vite,vercel,netlify,html,css)](https://skillicons.dev)
 
 ## Stats
 
