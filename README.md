@@ -19,7 +19,7 @@ A Junior web engineer with an enormous urge to learn about the web and its techn
 [![My Skills](https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap,mui,html,css)](https://skillicons.dev)
 
 ### Backend:
-[![My Skills](https://skillicons.dev/icons?i=node,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
 
 ### Database:
 [![My Skills](https://skillicons.dev/icons?i=mongodb,postgresql,firebase)](https://skillicons.dev)
@@ -28,7 +28,7 @@ A Junior web engineer with an enormous urge to learn about the web and its techn
 [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
 ### Other tools:
-[![My Skills](https://skillicons.dev/icons?i=redux,evscode,vercel,netlify)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=redux,vscode,vercel,netlify)](https://skillicons.dev)
 
 ## Contact
 
