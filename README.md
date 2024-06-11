@@ -12,7 +12,8 @@ A Junior web engineer with an enormous urge to learn about the web and its techn
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,cpp,c,react,redux,express,mongodb,postgresql,firebase,tailwind,bootstrap,vscode,vite,git,github,vercel,netlify,html,css)](https://skillicons.dev)
+### Frontend - [![My Skills](https://skillicons.dev/icons?i=react,tailwind,bootstrap,mui,html,css)](https://skillicons.dev)
+
 
 ## Contact
 
