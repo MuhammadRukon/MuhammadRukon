@@ -10,9 +10,9 @@ A Junior web engineer with an enormous urge to learn about the web and its techn
 - 🔍 I’m currently looking for a position as a full stack web engineer.
 - 🤔 I’m currently in my final year of computer science and engineering degree in Daffodil Institute of IT.
 
-## What I do
+## Skills
 
-Passionate front-end developer with backend knowledge, currently exploring Next.js. Experienced in creating responsive MERN stack websites, proficient in React, with a good understanding of Express.js, MongoDB, PostgreSQL and Firebase.
+[![My Skills](https://skillicons.dev/icons?i=js,cpp,c,react,express,mongodb,firebase,tailwind,bootstrap,vscode,vite,vercel,netlify,html,css)](https://skillicons.dev)
 
 ## Contact
 
@@ -39,7 +39,7 @@ January 2024 - April 2024
 ## CodeForces & problem solving repo
 
 - [CodeForces Profile ](https://codeforces.com/profile/Escanor_)
-- [Problem solving Github Repo ](https://github.com/MuhammadRukon/problem-solving)
+- [Problem solving Repo ](https://github.com/MuhammadRukon/problem-solving)
 
 ## Recent Projects
 
@@ -55,31 +55,25 @@ MERN-based Blood Donation website allows users to register as donors, create/man
 
 Some of the functionality and feature of this website are:
 
-**User Roles and Dashboards:**
-
-- Admin with full access.
-- Donors for blood donation.
-- Volunteers for managing requests.
-- Individual Dashboards.
-
 **User Authentication:**
 
 - Registration with essential details.
 - Login with email and password.
 
-**Donor Dashboard:**
+**Donor Role & Dashboard:**
 
-- Displays recent donation requests.
-- Allows creation and management of own requests.
+- Donate blood.
+- Check recent donation requests.
+- Create and management of own requests.
 
-**Admin Dashboard:**
+**Admin role & Dashboard:**
 
-- Displays statistics and welcome section.
-- Manages users, donation requests, and content.
+- Full access including checking statistics, manage users, donation requests, and content.
 
-**Volunteer Dashboard:**
+**Volunteer Role & Dashboard:**
 
-- Similar to Admin but limited functionalities.
+- Managing requests.
+- Similar to Admin but limited access.
 
 **Public Pages:**
 
@@ -106,12 +100,6 @@ Some of the functionality and feature of this website are:
 2. ### CozySuite
 
 MERN stack based Hotel Booking Website, redefining user experiences in accommodation reservations. Explore the innovative features below:
-
-**Homepage Experience:**
-
-- Engaging visuals and videos, Interactive map with attractions.
-- Authentic user testimonials.
-- Featured room showcase.
 
 **Authentication:**
 
@@ -150,47 +138,6 @@ MERN stack based Hotel Booking Website, redefining user experiences in accommoda
 - Limited access for non-logged-in users.
 
 **Live Link:** [CozySuite](https://cozysuite-15955.web.app/)
-
-3. ### Snackie
-
-A MERN stack based website for food and beverages. Explore a tailored shopping experience with the following key features:
-
-**Distinctive Homepage:**
-
-- Engaging navbar, banner, and footer.
-- Showcase diverse brand categories with images and names.
-- Additional sections for an enriched browsing experience.
-
-**Effortless Product Addition:**
-
-- Private route for adding products with a user-friendly form.
-- Dynamic categorization based on chosen brand category.
-
-**Brand-Focused Pages:**
-
-- Clicking a brand redirects to a dedicated page with ads and products.
-- Intuitive display of product details.
-- Update and Details buttons for seamless interaction.
-
-**Detailed Product Information:**
-
-- Private route for product details with personalized information.
-- Add to Cart functionality for a convenient shopping experience.
-
-**Secure Shopping Cart:**
-
-- Private route to view and manage added products.
-
-**User Authentication:**
-
-- Robust email and password-based authentication.
-- Error handling for registration and login with Firebase alerts/toasts.
-
-**Live Link:** [Snackie](https://brand-shop-48c61.web.app)
-
-## Skills
-
-[![My Skills](https://skillicons.dev/icons?i=js,c++,c,react,express,mongodb,firebase,tailwind,bootstrap,vscode,vite,vercel,netlify,html,css)](https://skillicons.dev)
 
 ## Stats
 
