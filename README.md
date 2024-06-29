@@ -49,8 +49,8 @@ January 2024 - April 2024
 - Designing & implementing API’s in pages e.g. Billing, journal list, chart of account, party name list etc.
 - Ensuring responsiveness and visual aesthetics throughout the web app.
 - Designing other components such as sidebar, invoice A4, 3inch, 2inch, generating invoice & pdf.
-- Collab with UI/UX designer and backend engineer to design ui and integrate API's.
-- Maintain manual CI/CD using github.
+- Collab with UI/UX designer and backend engineer to design dynamic and seamless ui and integrate API's.
+- Maintain manual CI using github.
 
 ## CodeForces & problem solving repo
 
