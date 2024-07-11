@@ -56,6 +56,7 @@ January 2024 - April 2024
 
 - [CodeForces Profile ](https://codeforces.com/profile/Escanor_)
 - [Problem solving Repo ](https://github.com/MuhammadRukon/problem-solving)
+- [leetcode profile ](https://leetcode.com/u/muhammadrukon/)
 
 ## Recent Projects
 
