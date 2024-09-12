@@ -21,7 +21,7 @@ A Junior web engineer with an enormous urge to learn about the web and its techn
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
 
 ### Database:
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mongoose,postgresql,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,postgresql,firebase)](https://skillicons.dev)
 
 ### Version control:
 [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
