@@ -6,23 +6,22 @@ A Junior web engineer with an enormous urge to learn about the web and its techn
 
 ## Present summary
 
-- 🌱 I’m currently learning Next Js
-- 🔍 I’m currently looking for a position as a full stack web engineer.
+- 🌱 I’m currently learning Next.js, React native and typescript.
 - 🤔 I’m currently in my final year of computer science and engineering degree in Daffodil Institute of IT.
 
 ## Skills
 
 ### Languages: 
-[![My Skills](https://skillicons.dev/icons?i=js,cpp,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,cpp,c)](https://skillicons.dev)
 
 ### Frontend:
-[![My Skills](https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap,mui,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,next,vite,tailwind,bootstrap,mui,html,css)](https://skillicons.dev)
 
 ### Backend:
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
 
 ### Database:
-[![My Skills](https://skillicons.dev/icons?i=mongodb,postgresql,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mongoose,postgresql,firebase)](https://skillicons.dev)
 
 ### Version control:
 [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
