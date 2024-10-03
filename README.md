@@ -6,7 +6,7 @@ A Junior web engineer with an enormous urge to learn about the web and its techn
 
 ## Present summary
 
-- 🌱 I’m currently learning Next.js, React native and typescript.
+- 🌱 I’m currently learning Next.js, React native, React Three Fiber and typescript.
 - 🤔 I’m currently in my final year of computer science and engineering degree in Daffodil Institute of IT.
 
 ## Skills
