@@ -73,6 +73,8 @@ Some of the functionality and feature of this website are:
 
 **User Authentication**
 
+- login, register and JWT.
+  
 **Donor Role & Dashboard**
 
 - Donate blood.
