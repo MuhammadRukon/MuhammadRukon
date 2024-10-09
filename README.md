@@ -71,12 +71,9 @@ MERN-based Blood Donation website allows users to register as donors, create/man
 
 Some of the functionality and feature of this website are:
 
-**User Authentication:**
+**User Authentication**
 
-- Registration with essential details.
-- Login with email and password.
-
-**Donor Role & Dashboard:**
+**Donor Role & Dashboard**
 
 - Donate blood.
 - Check recent donation requests.
