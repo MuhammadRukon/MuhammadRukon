@@ -61,7 +61,7 @@ January 2024 - April 2024
 
 0. ### HadithKhujo
 
-MERN based Islamic web app which includes most popular hadith books, categoried hadiths and searching of hadiths. (currently developing it from scratch)
+MERN based Islamic web app which includes most popular hadith books, categoried hadiths and searching of hadiths.
 
 **Live Link:** [HadithKhujo](https://hadithkhujo.netlify.app/)
 
