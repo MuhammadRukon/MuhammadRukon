@@ -27,7 +27,7 @@ A Frontend focused software engineer with an enormous urge to learn about the we
 [![My Skills](https://skillicons.dev/icons?i=git,github,bitbucket)](https://skillicons.dev)
 
 ### Other tools:
-[![My Skills](https://skillicons.dev/icons?i=redux,jest,zustand,vscode,vercel,netlify)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=redux,jest,rtk,vscode,vercel,netlify)](https://skillicons.dev)
 
 ## Contact
 
