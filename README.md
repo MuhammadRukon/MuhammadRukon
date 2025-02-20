@@ -2,11 +2,11 @@
 
 ## Objective
 
-A Junior web engineer with an enormous urge to learn about the web and its technologies. Highly interested in working and learning under pressure to reach my potential as a software engineer.
+A Frontend focused software engineer with an enormous urge to learn about the web and its latest technologies. Highly interested in working and learning under pressure to reach my potential as a Software Engineer.
 
 ## Present summary
 
-- 🌱 I’m currently learning Next.js, React native, React Three Fiber and typescript.
+- 🌱 I’m currently learning Next.js, Jest, and typescript.
 - 🤔 I’m currently in my final year of computer science and engineering degree in Daffodil Institute of IT.
 
 ## Skills
@@ -15,7 +15,7 @@ A Junior web engineer with an enormous urge to learn about the web and its techn
 [![My Skills](https://skillicons.dev/icons?i=js,ts,cpp,c)](https://skillicons.dev)
 
 ### Frontend:
-[![My Skills](https://skillicons.dev/icons?i=react,next,vite,tailwind,bootstrap,mui,html,css,three,phaser)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,next,vite,tailwind,bootstrap,mui,html,css,three,phaser,expo)](https://skillicons.dev)
 
 ### Backend:
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
