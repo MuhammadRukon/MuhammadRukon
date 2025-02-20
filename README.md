@@ -40,7 +40,7 @@ A Frontend focused software engineer with an enormous urge to learn about the we
 
 ## Experience
 
-### Binaryworks - Flarie
+### [Binaryworks - Flarie ](https://flarie.com/about-flarie)
 #### Junior Software Engineer (Frontend)
 February 2025 - Present
 #### Job Responsibities:
@@ -48,7 +48,7 @@ February 2025 - Present
 - Creating interactive and responsive user interfaces, ensuring proper comprehensive documentation and unit testing.
 - Contribute to game-engine-server.
 
-### Antopolis 
+### [Antopolis ](https://theantopolis.com/)
 #### Software Engineer (fullstack)
 August 2024 - February 2025
 #### Job Responsibities:
