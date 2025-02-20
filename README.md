@@ -24,7 +24,7 @@ A Frontend focused software engineer with an enormous urge to learn about the we
 [![My Skills](https://skillicons.dev/icons?i=mongodb,postgresql,firebase)](https://skillicons.dev)
 
 ### Version control:
-[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,bitbucket)](https://skillicons.dev)
 
 ### Other tools:
 [![My Skills](https://skillicons.dev/icons?i=redux,vscode,vercel,netlify)](https://skillicons.dev)
