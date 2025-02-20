@@ -27,7 +27,7 @@ A Frontend focused software engineer with an enormous urge to learn about the we
 [![My Skills](https://skillicons.dev/icons?i=git,github,bitbucket)](https://skillicons.dev)
 
 ### Other tools:
-[![My Skills](https://skillicons.dev/icons?i=redux,jest,rtk,vscode,vercel,netlify)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=redux,jest,vscode,vercel,netlify)](https://skillicons.dev)
 
 ## Contact
 
@@ -40,6 +40,22 @@ A Frontend focused software engineer with an enormous urge to learn about the we
 
 ## Experience
 
+### Binaryworks - Flarie
+#### Junior Software Engineer (Frontend)
+February 2025 - Present
+#### Job Responsibities:
+
+- Creating interactive and responsive user interfaces, ensuring proper comprehensive documentation and unit testing.
+- Contribute to game-engine-server.
+
+### Antopolis 
+#### Software Engineer (fullstack)
+August 2024 - February 2025
+#### Job Responsibities:
+
+- Delivering MERN based fullstack project solo as well as collaborating with other full stack developer.
+- Ensuring responsiveness and visual aesthetics throughout the web app.
+
 ### Squad Innovators 
 #### Software Engineer (frontend)
 January 2024 - April 2024
@@ -49,7 +65,6 @@ January 2024 - April 2024
 - Ensuring responsiveness and visual aesthetics throughout the web app.
 - Designing other components such as sidebar, invoice A4, 3inch, 2inch, generating invoice & pdf.
 - Collab with UI/UX designer and backend engineer to design dynamic and seamless ui and integrate API's.
-- Maintain manual CI using github.
 
 ## CodeForces & problem solving repo
 
