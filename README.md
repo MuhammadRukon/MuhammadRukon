@@ -6,8 +6,9 @@ A Frontend focused software engineer with an enormous urge to learn about the we
 
 ## Present summary
 
-- 🌱 I’m currently exploring monorepo & micro frontend architecture, webpack, Expo (react native) and full stack development with Next.js.
-- 🤔 I’m currently in my final year of computer science and engineering degree in Daffodil Institute of IT.
+I’m currently
+- 😅 exploring monorepo & micro frontend architecture, webpack, Expo (react native) and full stack development with Next.js.
+- 😮‍💨 in my final year of computer science and engineering degree in Daffodil Institute of IT.
 
 ## Skills
 
