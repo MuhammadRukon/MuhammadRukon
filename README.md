@@ -41,7 +41,7 @@ I’m currently
 
 ## Experience
 
-### [Binaryworks - Flarie ](https://flarie.com/about-flarie)
+### [ Flarie ](https://flarie.com/about-flarie)
 #### Junior Software Engineer (Frontend)
 February 2025 - Present
 #### Job Responsibities:
