@@ -46,26 +46,22 @@ I’m currently
 February 2025 - Present
 #### Job Responsibities:
 
-- Creating interactive and responsive user interfaces, ensuring proper comprehensive documentation and unit testing.
-- Contribute to game-engine-server.
+- Experienced in microfrontend architecture using Single-SPA and practiced TDD in an agile environment.
+- Engineered multiple core studio features currently live in production.
+- Increased test coverage by 10% and refactored the main user-facing app to ensure stability for 3.4M players.
+- Ensured 100% test coverage of the game engine serverʼs core components, used by 10M+ players over 3 years.
+- Enhanced the internal UI library, ensuring backward compatibility and improving reusability. Successfully refactored and
+implemented components in 2 out of 14 microfrontends.
+- Enhancing security across all microfrontend applications by preventing source code exposure in Chrome dev tools.
 
 ### [Antopolis ](https://theantopolis.com/)
 #### Software Engineer (fullstack)
-August 2024 - February 2025
+April 2024 - February 2025
 #### Job Responsibities:
 
-- Delivering MERN based fullstack project solo as well as collaborating with other full stack developer.
-- Ensuring responsiveness and visual aesthetics throughout the web app.
-
-### Squad Innovators 
-#### Software Engineer (frontend)
-January 2024 - April 2024
-#### Job Responsibities:
-
-- Designing & implementing API’s in pages e.g. Billing, journal list, chart of account, party name list etc.
-- Ensuring responsiveness and visual aesthetics throughout the web app.
-- Designing other components such as sidebar, invoice A4, 3inch, 2inch, generating invoice & pdf.
-- Collab with UI/UX designer and backend engineer to design dynamic and seamless ui and integrate API's.
+- Delivered 7+ full-stack projects using Next.js, Express.js, and MongoDB in collaboration with UI/UX and Product teams.
+- Mentored interns via code reviews, design standards, and debugging, improving code quality and delivery speed.
+- Directed resource management and project allocations, driving contributions to over 25% of company revenue.
 
 ## CodeForces & problem solving repo
 
@@ -75,100 +71,19 @@ January 2024 - April 2024
 
 ## Recent Projects
 
-0. ### HadithKhujo
+1. ### HadithKhujo
 
-MERN based Islamic web app which includes most popular hadith books, categoried hadiths and searching of hadiths.
+An Islamic (Hadith) web app featuring a responsive UI, multilingual support, night mode, indexed search functionality for both
+English and Bangla, authentication, bookmarks, categorized hadith etc.
 
 **Live Link:** [HadithKhujo](https://hadithkhujo.netlify.app/)
 
-1. ### SaveLife
+2. ### Frete
 
-MERN-based Blood Donation website allows users to register as donors, create/manage donation requests, and connect with recipients. It includes role-based access (Admin, Donor, Volunteer), user authentication, and a responsive dashboard.
+A freight-sharing web app built with serverless architecture that allows drivers to explore requests, view details after login and
+purchase, and buy credits using Stripe.
 
-Some of the functionality and feature of this website are:
-
-**User Authentication**
-
-- login, register and JWT.
-  
-**Donor Role & Dashboard**
-
-- Donate blood.
-- Check recent donation requests.
-- Create and management of own requests.
-
-**Admin role & Dashboard:**
-
-- Full access including checking statistics, manage users, donation requests, and content.
-
-**Volunteer Role & Dashboard:**
-
-- Managing requests.
-- Similar to Admin but limited access.
-
-**Public Pages:**
-
-- Home page with navigation links.
-- Search page for finding donors.
-- Blood donation requests and details page.
-
-**Content Management:**
-
-- Admin-managed blogs with publishing and unpublishing options.
-
-**JWT Implementation:**
-
-- Secure login with JWT tokens.
-- Token storage and protection for private APIs.
-
-**Funding Page:**
-
-- Allows users to contribute funds securely through Stripe.
-- Displays funding history.
-
-**Live Link:** [SaveLife](https://savelife-6b7c9.web.app)
-
-2. ### CozySuite
-
-MERN stack based Hotel Booking Website, redefining user experiences in accommodation reservations. Explore the innovative features below:
-
-**Authentication:**
-
-- Email/password and Google login.
-
-**JWT Implementation:**
-
-- Secure login with JWT tokens.
-- Token storage and protection for private APIs.
-
-**Room Listings:**
-
-- Available rooms with images.
-- Price filter functionality.
-- User reviews and ratings.
-
-**Booking Details:**
-
-- Comprehensive room information.
-- Seamless booking process.
-- Summary before confirmation.
-
-**Cancellation and Updates:**
-
-- Cancellation within 1 day.
-- Update booking dates easily.
-
-**Review System:**
-
-- User reviews for booked rooms.
-- Inclusive review display.
-
-**Access Control:**
-
-- Secure actions for logged-in users.
-- Limited access for non-logged-in users.
-
-**Live Link:** [CozySuite](https://cozysuite-15955.web.app/)
+**Live Link:** [Frete](https://frete-a8155.web.app/)
 
 ## Stats
 
