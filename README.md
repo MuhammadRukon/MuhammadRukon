@@ -16,13 +16,13 @@ I’m currently
 [![My Skills](https://skillicons.dev/icons?i=js,ts,cpp,c)](https://skillicons.dev)
 
 ### Frontend:
-[![My Skills](https://skillicons.dev/icons?i=react,next,vite,tailwind,bootstrap,mui,html,css,three,phaser,expo)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,next,vite,tailwind,bootstrap,mui,html,css,three,phaser,expo,shadcn)](https://skillicons.dev)
 
 ### Backend:
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
 
 ### Database:
-[![My Skills](https://skillicons.dev/icons?i=mongodb,postgresql,firebase,prisma,mongoose)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,postgresql,firebase,prisma)](https://skillicons.dev)
 
 ### Version control:
 [![My Skills](https://skillicons.dev/icons?i=git,github,bitbucket)](https://skillicons.dev)
