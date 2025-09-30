@@ -22,7 +22,7 @@ I’m currently
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
 
 ### Database:
-[![My Skills](https://skillicons.dev/icons?i=mongodb,postgresql,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,postgresql,firebase,prisma,mongoose)](https://skillicons.dev)
 
 ### Version control:
 [![My Skills](https://skillicons.dev/icons?i=git,github,bitbucket)](https://skillicons.dev)
