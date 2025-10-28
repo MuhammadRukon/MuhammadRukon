@@ -11,7 +11,7 @@ I’m currently
 - 😮‍💨 in my final year of computer science and engineering degree in Daffodil Institute of IT.
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=js,ts,cpp,c,react,next,vite,tailwind,bootstrap,mui,html,css,three,nodejs,express,mongodb,postgresql,firebase,prisma,mysql,git,github,bitbucket,redux,jest,vscode,vercel,netlify)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,cpp,c,react,next,vite,tailwind,bootstrap,mui,html,css,nodejs,express,mongodb,postgresql,firebase,prisma,mysql,git,github,bitbucket,redux,jest,vscode,vercel,netlify)](https://skillicons.dev)
 
 ## Contact
 
