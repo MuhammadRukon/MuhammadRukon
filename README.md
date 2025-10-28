@@ -11,24 +11,7 @@ I’m currently
 - 😮‍💨 in my final year of computer science and engineering degree in Daffodil Institute of IT.
 
 ## Skills
-
-### Languages: 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,cpp,c)](https://skillicons.dev)
-
-### Frontend:
-[![My Skills](https://skillicons.dev/icons?i=react,next,vite,tailwind,bootstrap,mui,html,css,three)](https://skillicons.dev)
-
-### Backend:
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
-
-### Database:
-[![My Skills](https://skillicons.dev/icons?i=mongodb,postgresql,firebase,prisma)](https://skillicons.dev)
-
-### Version control:
-[![My Skills](https://skillicons.dev/icons?i=git,github,bitbucket)](https://skillicons.dev)
-
-### Other tools:
-[![My Skills](https://skillicons.dev/icons?i=redux,jest,vscode,vercel,netlify)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,cpp,c,react,next,vite,tailwind,bootstrap,mui,html,css,three,nodejs,express,mongodb,postgresql,firebase,prisma,mysql,git,github,bitbucket,redux,jest,vscode,vercel,netlify)](https://skillicons.dev)
 
 ## Contact
 
@@ -43,7 +26,7 @@ I’m currently
 
 ### [ Flarie ](https://flarie.com/about-flarie)
 #### Junior Software Engineer (Frontend)
-February 2025 - Present
+February 2025 - September 2025
 #### Job Responsibities:
 
 - Experienced in microfrontend architecture using Single-SPA and practiced TDD in an agile environment.
