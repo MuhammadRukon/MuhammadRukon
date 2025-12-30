@@ -24,9 +24,13 @@ I’m currently
 
 ## Experience
 
+### [ Astha IT ](https://ait.inc/)
+#### Software Engineer
+Dec 2025 - Present
+
 ### [ Flarie ](https://flarie.com/about-flarie)
 #### Junior Software Engineer (Frontend)
-February 2025 - September 2025
+April 2025 - November 2025
 #### Job Responsibities:
 
 - Experienced in microfrontend architecture using Single-SPA and practiced TDD in an agile environment.
@@ -39,7 +43,7 @@ implemented components in 2 out of 14 microfrontends.
 
 ### [Antopolis ](https://theantopolis.com/)
 #### Software Engineer (fullstack)
-April 2024 - February 2025
+June 2024 - March 2025
 #### Job Responsibities:
 
 - Delivered 7+ full-stack projects using Next.js, Express.js, and MongoDB in collaboration with UI/UX and Product teams.
