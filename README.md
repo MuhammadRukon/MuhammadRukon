@@ -29,7 +29,7 @@ I’m currently
 Dec 2025 - Present
 
 ### [ Flarie ](https://flarie.com/about-flarie)
-#### Junior Software Engineer (Frontend)
+#### Software Engineer (Frontend)
 April 2025 - November 2025
 #### Job Responsibities:
 
