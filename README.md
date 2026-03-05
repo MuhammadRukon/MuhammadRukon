@@ -2,13 +2,12 @@
 
 ## Objective
 
-A Frontend focused software engineer with an enormous urge to learn about the web and its latest technologies. Highly interested in working and learning under pressure to reach my potential as a Software Engineer.
+A Frontend focused software engineer with an enormous urge to learn about the web and its latest technologies. Highly interested in working and learning under pressure to reach my full potential as a Software Engineer.
 
 ## Present summary
 
 I’m currently
-- 😅 exploring monorepo & micro frontend architecture, webpack, Expo (react native) and full stack development with Next.js.
-- 😮‍💨 in my final year of computer science and engineering degree in Daffodil Institute of IT.
+- 😅 exploring vue, fastapi, sqlalchemy.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/muhammad.rukon.7/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/muhammad.rukon/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammadrukon/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/muhammadRukon2) 
