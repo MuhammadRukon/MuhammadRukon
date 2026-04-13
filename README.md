@@ -41,7 +41,7 @@ implemented components in 2 out of 14 microfrontends.
 June 2024 - March 2025
 #### Job Responsibities:
 
-- Delivered 7+ full-stack projects using Next.js, Express.js, and MongoDB in collaboration with UI/UX and Product teams.
+- Delivered 5+ full-stack projects using Next.js, Express.js, and MongoDB in collaboration with UI/UX and Product teams.
 - Mentored interns via code reviews, design standards, and debugging, improving code quality and delivery speed.
 - Directed resource management and project allocations, driving contributions to over 25% of company revenue.
 
